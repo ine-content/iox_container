@@ -1,1 +1,9 @@
-netmiko==4.2.0
+netmiko
+napalm
+nornir
+requests
+pyyaml
+textfsm
+paramiko
+tabulate
+rich
